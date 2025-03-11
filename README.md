@@ -7,8 +7,8 @@ This tool searches PubMed for articles matching a given query and identifies tho
 1.  **Clone the repository (if applicable):**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/SanjayReddy91/pubMedAPI.git
+    cd pubMedAPI
     ```
 
 2.  **Install Poetry:**
